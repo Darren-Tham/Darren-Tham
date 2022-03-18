@@ -1,8 +1,8 @@
 ## Introduction
 
-Hey! I am @Darren-Tham, and I am a Computer Science student at the University of Georgia!
+Hey! 👋 I am @Darren-Tham, and I am a Computer Science student at the University of Georgia! 💻 
 
-Programming and Markup Languages:
+⭐️ Programming and Markup Languages: ⭐️
 - Java
 - JavaScript
 - C++
@@ -10,7 +10,7 @@ Programming and Markup Languages:
 - CSS
 ---
 ## Contact
-Email: darrent9859@gmail.com
+Email 📫: darrent9859@gmail.com
 
 <!---
 Darren-Tham/Darren-Tham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
