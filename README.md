@@ -7,7 +7,7 @@ Hey! 👋 I am @Darren-Tham, and I am a Computer Science student at the Universi
 - JavaScript
 - C++
 - HTML 5
-- CSS
+- CSS 3
 ---
 ## Contact
 Email 📫: darrent9859@gmail.com
