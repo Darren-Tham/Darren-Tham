@@ -6,30 +6,24 @@
 
 <h2 align="center">⭐️ Programming Languages and Tools ⭐️</h2>
 <div align="center">
-  <img src="./imgs/tools/ts.png" alt="TypeScript" width="101"> &nbsp
-  <img src="./imgs/tools/js.png" alt="JavaScript" width="100"> &nbsp
-  <img src="./imgs/tools/react.png" alt="React" width="113"> &nbsp
-  <img src="./imgs/tools/html.svg" alt="HTML" width="88"> &nbsp
+  <picture><img src="./imgs/tools/ts.png" alt="TypeScript" width="101"> &nbsp</picture>
+  <picture><img src="./imgs/tools/js.png" alt="JavaScript" width="100"> &nbsp</picture>
+  <picture><img src="./imgs/tools/react.png" alt="React" width="113"> &nbsp</picture>
+  <picture><img src="./imgs/tools/html.svg" alt="HTML" width="88"> &nbsp</picture>
 </div>
 &nbsp
 <div align="center">
-  <img src="./imgs/tools/css.png" alt="CSS" width="101"> &nbsp
-  <img src="./imgs/tools/java.svg" alt="Java" width="75"> &nbsp
-  <img src="./imgs/tools/vscode.png" alt="Visual Studio Code" width="96"> &nbsp
-  <img src="./imgs/tools/vim.png" alt="Vim" width=100"
+  <picture><img src="./imgs/tools/css.png" alt="CSS" width="101"> &nbsp</picture>
+  <picture><img src="./imgs/tools/java.svg" alt="Java" width="75"> &nbsp</picture>
+  <picture><img src="./imgs/tools/vscode.png" alt="Visual Studio Code" width="96"> &nbsp</picture>
+  <picture><img src="./imgs/tools/vim.png" alt="Vim" width=100"</picture>
 </div>
 
 <h2 align="center">✉️ Contact ✉️</h2>
 <div align="center">
-  <a href="mailto:darrent9859@gmail.com">
-    <img src="./imgs/contacts/gmail.webp" alt="Gmail" width="130"> &nbsp
-  </a>
-  <a href="mailto:dt64735@uga.edu">
-    <img src="./imgs/contacts/outlook.png" alt="Outlook" width="108"> &nbsp
-  </a>
-  <a href="https://www.linkedin.com/in/darren-thammavong-a54624235/">
-    <img src="./imgs/contacts/linkedin.png" alt="LinkedIn" width="101">
-  </a>
+  <a href="mailto:darrent9859@gmail.com"><img src="./imgs/contacts/gmail.webp" alt="Gmail" width="130"> &nbsp</a>
+  <a href="mailto:dt64735@uga.edu"><img src="./imgs/contacts/outlook.png" alt="Outlook" width="108"> &nbsp</a>
+  <a href="https://www.linkedin.com/in/darren-thammavong-a54624235/"><img src="./imgs/contacts/linkedin.png" alt="LinkedIn" width="101"></a>
 </div>
 
 <!---
