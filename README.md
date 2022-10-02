@@ -1,16 +1,25 @@
-## Introduction
+<h1 align="center">Welcome to my GitHub!</h1>
 
-Hello! 👋 I am Darren Thammavong, and I major in Computer Science and Mathematics at the University of Georgia! 💻 
+<h2 align="center">Darren Thammavong</h2>
 
-⭐️ Programming Languages and Tools: ⭐️
-- TypeScript/JavaScript 
-- React
-- HTML 5
-- CSS 3
-- Java
-- Visual Studio Code
----
-## Contact
+<p align="center">A Computer Science and Mathematics major at the University of Georgia! Passionate about web development and software engineer</p>
+
+<h2 align="center">⭐️ Programming Languages and Tools ⭐️</h2>
+<div align="center">
+  <img src="./imgs/ts.png" alt="TypeScript" width="101"> &nbsp
+  <img src="./imgs/js.png" alt="JavaScript" width="100"> &nbsp
+  <img src="./imgs/react.png" alt="React" width="113"> &nbsp
+  <img src="./imgs/html.svg" alt="HTML" width="88"> &nbsp
+  <img src="./imgs/css.png" alt="CSS" width="101">
+  <img src="./imgs/java.png" alt="Java" width="117">
+  <img src="./imgs/vscode.png" alt="Visual Studio Code" width="96">
+</div>
+
+<h2 align="center">✉️ Contact ✉️</h2>
+<div align="center">
+  <img src="./imgs/email.webp" alt="Email" width="100"> &nbsp
+  <img src="./imgs/linkedin.png" alt="LinkedIn" width="100">
+</div>
 Email 📫: darrent9859@gmail.com
 
 <!---
