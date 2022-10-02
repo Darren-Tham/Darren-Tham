@@ -17,8 +17,9 @@
 
 <h2 align="center">✉️ Contact ✉️</h2>
 <div align="center">
-  <img src="./imgs/contacts/email.webp" alt="Email" width="100"> &nbsp
-  <img src="./imgs/contacts/linkedin.png" alt="LinkedIn" width="100">
+  <img src="./imgs/contacts/gmail.webp" alt="Gmail" width="100"> &nbsp
+  <img src="./imgs/contacts/outlook.png" alt="Outlook" width="100"> &nbsp
+  <img src="./imgs/contacts/linkedin.png" alt="LinkedIn" width="101">
 </div>
 Email 📫: darrent9859@gmail.com
 
