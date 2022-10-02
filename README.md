@@ -1,13 +1,14 @@
 ## Introduction
 
-Hey! 👋 I am @Darren-Tham, and I am a Computer Science student at the University of Georgia! 💻 
+Hello! 👋 I am Darren Thammavong, and I major in Computer Science and Mathematics at the University of Georgia! 💻 
 
-⭐️ Programming and Markup Languages: ⭐️
-- Java
-- JavaScript
-- C++
+⭐️ Programming Languages and Tools: ⭐️
+- TypeScript/JavaScript 
+- React
 - HTML 5
 - CSS 3
+- Java
+- Visual Studio Code
 ---
 ## Contact
 Email 📫: darrent9859@gmail.com
