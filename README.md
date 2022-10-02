@@ -10,9 +10,12 @@
   <img src="./imgs/tools/js.png" alt="JavaScript" width="100"> &nbsp
   <img src="./imgs/tools/react.png" alt="React" width="113"> &nbsp
   <img src="./imgs/tools/html.svg" alt="HTML" width="88"> &nbsp
+</div>
+<div align="center">
   <img src="./imgs/tools/css.png" alt="CSS" width="101">
   <img src="./imgs/tools/java.png" alt="Java" width="117">
-  <img src="./imgs/tools/vscode.png" alt="Visual Studio Code" width="96">
+  <img src="./imgs/tools/vscode.png" alt="Visual Studio Code" width="96"> &nbsp
+  <img src="./imgs/tools/vim.png" alt="Vim" width=100"
 </div>
 
 <h2 align="center">✉️ Contact ✉️</h2>
