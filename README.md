@@ -13,7 +13,7 @@
 </div>
 <div align="center">
   <img src="./imgs/tools/css.png" alt="CSS" width="101">
-  <img src="./imgs/tools/java.png" alt="Java" width="117">
+  <img src="./imgs/tools/java.svg" alt="Java" width="117">
   <img src="./imgs/tools/vscode.png" alt="Visual Studio Code" width="96"> &nbsp
   <img src="./imgs/tools/vim.png" alt="Vim" width=100"
 </div>
