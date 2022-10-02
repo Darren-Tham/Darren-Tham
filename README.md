@@ -2,7 +2,7 @@
 
 <h2 align="center">Darren Thammavong</h2>
 
-<p align="center">A Computer Science and Mathematics major at the University of Georgia! Passionate about web development and software engineer</p>
+<h3 align="center">A Computer Science and Mathematics major at the University of Georgia! Passionate about web development and software engineering</h3>
 
 <h2 align="center">⭐️ Programming Languages and Tools ⭐️</h2>
 <div align="center">
@@ -17,11 +17,16 @@
 
 <h2 align="center">✉️ Contact ✉️</h2>
 <div align="center">
-  <img src="./imgs/contacts/gmail.webp" alt="Gmail" width="100"> &nbsp
-  <img src="./imgs/contacts/outlook.png" alt="Outlook" width="100"> &nbsp
-  <img src="./imgs/contacts/linkedin.png" alt="LinkedIn" width="101">
+  <a href="mailto:darrent9859@gmail.com">
+    <img src="./imgs/contacts/gmail.webp" alt="Gmail" width="130"> &nbsp
+  </a>
+  <a href="mailto:dt64735@uga.edu">
+    <img src="./imgs/contacts/outlook.png" alt="Outlook" width="108"> &nbsp
+  </a>
+  <a href="https://www.linkedin.com/in/darren-thammavong-a54624235/">
+    <img src="./imgs/contacts/linkedin.png" alt="LinkedIn" width="101">
+  </a>
 </div>
-Email 📫: darrent9859@gmail.com
 
 <!---
 Darren-Tham/Darren-Tham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
