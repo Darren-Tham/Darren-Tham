@@ -3,6 +3,11 @@
 Hello! 👋 I am Darren Thammavong, and I major in Computer Science and Mathematics at the University of Georgia! 💻 
 
 ⭐️ Programming Languages and Tools: ⭐️
+<div
+  display="flex"
+>
+  <img src="./imgs/ts.png">
+</div>
 - TypeScript/JavaScript 
 - React
 - HTML 5
