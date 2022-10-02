@@ -6,19 +6,19 @@
 
 <h2 align="center">⭐️ Programming Languages and Tools ⭐️</h2>
 <div align="center">
-  <img src="./imgs/ts.png" alt="TypeScript" width="101"> &nbsp
-  <img src="./imgs/js.png" alt="JavaScript" width="100"> &nbsp
-  <img src="./imgs/react.png" alt="React" width="113"> &nbsp
-  <img src="./imgs/html.svg" alt="HTML" width="88"> &nbsp
-  <img src="./imgs/css.png" alt="CSS" width="101">
-  <img src="./imgs/java.png" alt="Java" width="117">
-  <img src="./imgs/vscode.png" alt="Visual Studio Code" width="96">
+  <img src="./imgs/tools/ts.png" alt="TypeScript" width="101"> &nbsp
+  <img src="./imgs/tools/js.png" alt="JavaScript" width="100"> &nbsp
+  <img src="./imgs/tools/react.png" alt="React" width="113"> &nbsp
+  <img src="./imgs/tools/html.svg" alt="HTML" width="88"> &nbsp
+  <img src="./imgs/tools/css.png" alt="CSS" width="101">
+  <img src="./imgs/tools/java.png" alt="Java" width="117">
+  <img src="./imgs/tools/vscode.png" alt="Visual Studio Code" width="96">
 </div>
 
 <h2 align="center">✉️ Contact ✉️</h2>
 <div align="center">
-  <img src="./imgs/email.webp" alt="Email" width="100"> &nbsp
-  <img src="./imgs/linkedin.png" alt="LinkedIn" width="100">
+  <img src="./imgs/contacts/email.webp" alt="Email" width="100"> &nbsp
+  <img src="./imgs/contacts/linkedin.png" alt="LinkedIn" width="100">
 </div>
 Email 📫: darrent9859@gmail.com
 
